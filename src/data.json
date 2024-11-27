@@ -1,0 +1,13 @@
+[
+    { "deviceId": 1, "siteId": "1", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 2, "siteId": "2", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 3, "siteId": "3", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 4, "siteId": "4", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 5, "siteId": "5", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 6, "siteId": "6", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 7, "siteId": "7", "siteIP" : "","singleOut":0, "singleIn":0},
+    { "deviceId": 8, "siteId": "8", "siteIP" : "","singleOut":5, "singleIn":0},
+    { "deviceId": 9, "siteId": "9", "siteIP" : "","singleOut":0, "singleIn":3},
+    { "deviceId": 10, "siteId": "10","siteIP" : "", "singleOut":0, "singleIn":0}
+  ]
+  
